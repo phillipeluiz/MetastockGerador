@@ -1,0 +1,13 @@
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Debug\GeraçãoMetaStockFiles.exe
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Debug\GeraçãoMetaStockFiles.pdb
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GeraçãoMetaStockFiles.frmGerarArquivo.resources
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GeraçãoMetaStockFiles.Properties.Resources.resources
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GeraçãoMetaStockFiles.exe
+c:\users\phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GeraçãoMetaStockFiles.pdb
+C:\Users\Phillipe\documents\visual studio 2010\Projects\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Debug\GeraçãoMetaStockFiles.exe.config
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Debug\GeraçãoMetaStockFiles.exe.config
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GeraçãoMetaStockFiles.exe
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Debug\GeraçãoMetaStockFiles.pdb

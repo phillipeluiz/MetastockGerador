@@ -1,0 +1,40 @@
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeraçãoMetaStockFiles.exe.config
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeraçãoMetaStockFiles.exe
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeraçãoMetaStockFiles.pdb
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.frmGerarArquivo.resources
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.Properties.Resources.resources
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.exe
+D:\Google Drive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.pdb
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeraçãoMetaStockFiles.exe.config
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.pdb
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeraçãoMetaStockFiles.exe
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeraçãoMetaStockFiles.pdb
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.frmGerarArquivo.resources
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.Properties.Resources.resources
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csproj.GenerateResource.Cache
+E:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.exe
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe.config
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.pdb
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.frmGerarArquivo.resources
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csproj.GenerateResource.Cache
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.exe
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.pdb
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Desenvolvimento\Sistemas\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.Properties.Resources.resources
+D:\svnwc\trunk\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe.config
+D:\svnwc\trunk\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.exe
+D:\svnwc\trunk\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.pdb
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe.config
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.exe
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.pdb
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.pdb
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csprojResolveAssemblyReference.cache
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.frmGerarArquivo.resources
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.Properties.Resources.resources
+D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csproj.GenerateResource.Cache
