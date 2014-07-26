@@ -109,7 +109,7 @@ namespace GeraçãoMetaStockFiles
 
             // Busca automaticamente todos os arquivos em todos os subdiretórios
             DirectoryInfo Dir = new DirectoryInfo(ConfigurationManager.AppSettings["DefaultPathImport"]);
-            FileInfo[] Files = Dir.GetFiles("*", SearchOption.AllDirectories );
+            FileInfo[] Files = Dir.GetFiles("*2014*", SearchOption.AllDirectories );
             foreach (FileInfo File in Files)
             {
                 lstFile.Items.Add(File.Name);

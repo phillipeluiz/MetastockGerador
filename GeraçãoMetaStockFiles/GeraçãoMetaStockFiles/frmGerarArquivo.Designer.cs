@@ -182,12 +182,14 @@
             // 
             this.lstFile.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lstFile.FullRowSelect = true;
+            this.lstFile.GridLines = true;
             this.lstFile.Location = new System.Drawing.Point(6, 15);
             this.lstFile.Name = "lstFile";
             this.lstFile.Size = new System.Drawing.Size(250, 234);
+            this.lstFile.Sorting = System.Windows.Forms.SortOrder.Descending;
             this.lstFile.TabIndex = 1;
             this.lstFile.UseCompatibleStateImageBehavior = false;
-            this.lstFile.View = System.Windows.Forms.View.Tile;
+            this.lstFile.View = System.Windows.Forms.View.List;
             // 
             // dtBdi
             // 

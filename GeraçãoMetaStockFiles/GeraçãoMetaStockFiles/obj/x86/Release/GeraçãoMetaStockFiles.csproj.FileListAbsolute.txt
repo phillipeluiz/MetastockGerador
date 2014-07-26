@@ -38,3 +38,13 @@ D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Releas
 D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.frmGerarArquivo.resources
 D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.Properties.Resources.resources
 D:\svnwc\branches\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csproj.GenerateResource.Cache
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe.config
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.exe
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeracaoMetaStockFiles.pdb
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csprojResolveAssemblyReference.cache
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.frmGerarArquivo.resources
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.Properties.Resources.resources
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\obj\x86\Release\GeraçãoMetaStockFiles.csproj.GenerateResource.Cache
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.exe
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\GeracaoMetaStockFiles.pdb
+D:\Git-rep\GitRep\GeraçãoMetaStockFiles\GeraçãoMetaStockFiles\bin\Release\ICSharpCode.SharpZipLib.dll
